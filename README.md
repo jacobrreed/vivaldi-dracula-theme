@@ -19,6 +19,6 @@ I plan on adding an icon pack at some point.
 4. Restart Vivaldi
 
 
-#### Future TODOs:
+### Future TODOs:
 - [ ] Icon pack
 - [ ] More CSS modification to make things more Dracula like
