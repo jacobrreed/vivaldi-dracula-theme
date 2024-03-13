@@ -17,3 +17,8 @@ I plan on adding an icon pack at some point.
       - `Select Folder...` and select the folder where you placed the `vivaldi-dracula.css` file
       - NOTE: This will load all CSS files in that directory
 4. Restart Vivaldi
+
+
+#### Future TODOs:
+- [ ] Icon pack
+- [ ] More CSS modification to make things more Dracula like
