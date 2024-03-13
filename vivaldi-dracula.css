@@ -1,0 +1,8 @@
+.tab-header {
+  padding-top: 5px;
+  color: #bd93f9;
+}
+.tab.active .tab-header {
+  color: #ff79c6 !important;
+  font-weight: bold;
+}
